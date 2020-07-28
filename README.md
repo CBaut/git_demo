@@ -1,5 +1,11 @@
 # git_demo
 
-First Changes!
 
-Added another line
+dumping notes for demo
+
+``` javascript
+function sum(arr){
+    // demo 
+}
+
+```
